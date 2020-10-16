@@ -4,7 +4,7 @@ external_link: ""
 image:
   caption: 
   focal_point: Smart
-summary: An example of using the in-built project page.
+summary: 
 tags:
 - Statistical Genetics
 - GWAS
