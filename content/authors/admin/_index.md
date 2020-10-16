@@ -1,78 +1,46 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Username (this should match the folder name)
 authors:
 - admin
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+bio: 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Biomedical Data Science
+    institution: University of Wisconsin-Madison
+    year: 2018 - (in progress)
+  - course: MS in Statistics
+    institution: University of Michigan-Ann Arbor
+    year: 2016 - 2018
+  - course: BS in Mathematics
+    institution: Sun Yat-sen University
+    year: 2012 - 2016
+email: ""
+interests:
+- Clinical Biostatistics
+- Causal Inference
+- Data Science
+- Data Visualization
+- Computational Statistics
 
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+name: Tuo Wang
+organizations:
+- name: University of Wisconsin-Madison
+  url: ""
+role: PhD student in Dept of Biostatistics & Medical Informatics
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: '#contact'
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+  link: https://github.com/ttuowang
+superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am third year PhD student in [Dept of Biostatistics & Medical Informatics at UW-Madison](https://biostat.wiscweb.wisc.edu/). My advisor is [Prof. Lu Mao](https://sites.google.com/view/lmaowisc/home). I also work as a biostatistician in [Data Coordinating Center](https://biostat.wiscweb.wisc.edu/research/clinical-trials/data-coordinating-center/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Before coming to UW-Madson, I received the B.S. degree in mathematics and applied mathematics from Sun Yat-sen University, and the M.S. degree in applied statistics from University of Michigan, Ann Arbor. When I was in Umich, I worked in [Statistics Online Computational Resource (SOCR)](http://www.socr.umich.edu/) team supervised by Prof. Ivo Dinvo.
+
+My research focuse on causal inference, clinical trials and statistical methods for composite endpoints. I'm also enthusiastic about data science and data visualization in R.
