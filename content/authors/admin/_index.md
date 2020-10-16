@@ -43,4 +43,4 @@ I am third year PhD student in [Dept of Biostatistics & Medical Informatics at U
 
 Before coming to UW-Madson, I received the B.S. degree in mathematics and applied mathematics from Sun Yat-sen University, and the M.S. degree in applied statistics from University of Michigan, Ann Arbor. When I was in Umich, I worked in [Statistics Online Computational Resource (SOCR)](http://www.socr.umich.edu/) team supervised by Prof. Ivo Dinvo.
 
-My research focuse on causal inference, clinical trials and statistical methods for composite endpoints. I'm also enthusiastic about data science and data visualization in R.
+My research focuses on causal inference, clinical trials and statistical methods for composite endpoints. I'm also enthusiastic about data science and data visualization in R.
