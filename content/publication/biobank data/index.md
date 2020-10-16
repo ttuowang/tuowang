@@ -1,5 +1,5 @@
 +++
-abstract: 
+abstract=""
 authors = ["Yiwang Zhou", "Lu Zhao", "Nina Zhou", "Yi Zhao", "Simeone Marino", "**Tuo Wang**", "et al."]
 date="2019-04-12T00:00:00Z"
 #doi: ""
@@ -11,8 +11,8 @@ publication_types="2"
 publishDate="2019-04-12T00:00:00Z"
 slides=""
 summary="" 
-tags:
-title: Predictive Big Data Analytics using the UK Biobank Data
+tags=""
+title=" Predictive Big Data Analytics using the UK Biobank Data"
 url_code: =""
 url_dataset=""
 url_pdf= https://www.nature.com/articles/s41598-019-41634-y
