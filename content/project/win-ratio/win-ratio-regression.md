@@ -9,7 +9,7 @@ summary: Develop a semiparametric proportional win fractions (PWF) regression fr
 tags:
 - Survival Analysis
 - Clinical Trial
-title: Win Ratio
+title: Proportional win-fractions regression
 url_code: "https://cran.r-project.org/web/packages/WR/index.html"
 url_pdf: ""
 url_slides: ""
