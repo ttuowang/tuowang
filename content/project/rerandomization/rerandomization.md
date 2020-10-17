@@ -9,7 +9,7 @@ tags:
 - Causal Inference
 - Clinical Trial
 url_code: ""
-url_pdf: ""
+url_pdf: "https://github.com/ttuowang/tuowang/tree/master/content/project/rerandomization"
 url_slides: ""
 url_video: ""
 ---
