@@ -1,7 +1,7 @@
 +++
 abstract = ""
 
-authors = ["Chao Gao", "Hanbo sun", "**Tuo Wang**", "et al."]
+authors = ["Chao Gao", "Hanbo sun", "**Tuo Wang**", "et al"]
 date = "2018-04-10"
 image_preview = ""
 math = true
