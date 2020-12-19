@@ -24,7 +24,7 @@ interests:
 name: Tuo Wang
 organizations:
 - name: University of Wisconsin-Madison
-  url: ""
+  url: "https://www.wisc.edu/"
 role: PhD student in Dept of Biostatistics & Medical Informatics
 social:
 - icon: envelope
@@ -33,6 +33,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/ttuowang
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/tuo-wang-0485b5133/
 superuser: true
 user_groups:
 - Researchers
