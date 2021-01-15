@@ -2,6 +2,7 @@
 title: "Win Ratio References"
 date: "2021-01-15"
 author: "Tuo Wang"
+summary: "Summary of publications regarding Win Ratio"
 ---
 
 ## Win Ratio References
