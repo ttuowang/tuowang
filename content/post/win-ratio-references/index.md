@@ -1,7 +1,7 @@
 ---
 title: "Win Ratio References"
 date: "2021-01-15"
-authors: Tuo
+author: "Tuo Wang"
 ---
 
 ## Win Ratio References
