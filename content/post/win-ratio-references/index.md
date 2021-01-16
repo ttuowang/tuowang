@@ -7,6 +7,8 @@ summary: "Summary of publications regarding Win Ratio"
 
 ## Win Ratio References
 
+Win ratio is a novel approach to analyze prioritized composite endpoints. After proposed by Pocock et al. (2012), it gained much attention in both academic and industry. I summarized some important references regarding win ratio statistics.
+
 ### Theory
 
 **Original paper:** [The win ratio: a new approach to the analysis of composite endpoints in clinical trials based on clinical priorities](https://academic.oup.com/eurheartj/article/33/2/176/439013), Pocock et al. (2012)
@@ -54,4 +56,19 @@ summary: "Summary of publications regarding Win Ratio"
 - [A win ratio approach to comparing continuous non-normal outcomes in clinical trials](https://onlinelibrary.wiley.com/doi/abs/10.1002/pst.1743)
 
 - [The win ratio approach to analyzing composite outcomes: An application to the EVOLVE trial](https://www.sciencedirect.com/science/article/pii/S1551714416300489?casa_token=qJIvmltRtgEAAAAA:dVhV7TziNHvrSVwu7xyUZrbeDNoTEg_-y7xBSaowrxqIaT7G5mIkYrfIz1-mqE1fnGqKcJkHGA) 
+
+### Software
+
+- Win ratio regression R package: [WR](https://cran.r-project.org/web/packages/WR/index.html)
+
+- Weighted win ratio R package: [WWR](https://cran.r-project.org/web/packages/WWR/WWR.pdf)
+
+- R package for computing confidence interval based on Bebu and Lachin (2016):[WinRatio](https://cran.r-project.org/web/packages/WinRatio/WinRatio.pdf)
+
+- R code for computing confidence interval based on Luo et al. (2015): [R code](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fbiom.12225&file=biom12225-sup-0001-SupData-S1.pdf)
+
+
+
+
+
 
