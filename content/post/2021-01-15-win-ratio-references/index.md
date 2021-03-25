@@ -43,11 +43,15 @@ Win ratio is a novel approach to analyze prioritized composite endpoints. After 
 
 - [The win ratio: Impact of censoring and follow‐up time and use with nonproportional hazards](https://onlinelibrary.wiley.com/doi/full/10.1002/pst.1977?casa_token=FoLNO8bdSwkAAAAA%3Ahrpi3ENz_dkOXGHpKUKHJiOgP4ePBDgf04_rssrCMtHE9PJw6H-QGGieJxzAPQdH3vCpqoyUUaCZ_aY), Dong 2019
 
+- [Adjusting win statistics for dependent censoring](Adjusting win statistics for dependent censoring), Dong et al. 2020
+
 **Handling of Ties:** [The Win Ratio: On Interpretation and Handling of Ties](https://www.tandfonline.com/doi/abs/10.1080/19466315.2019.1575279?journalCode=usbr20), Dong 2019
 
 **Regression:** [A class of proportional win-fractions regression models for composite outcomes](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13382), Mao and Wang 2020
 
 ### Application
+
+- [Sodium-glucose co-transporter 2 inhibition in patients hospitalized for acute decompensated heart failure: rationale for and design of the EMPULSE trial](https://europepmc.org/article/med/33609072)
 
 - [The win ratio approach for composite endpoints: practical guidance based on previous experience](https://academic.oup.com/eurheartj/article-abstract/41/46/4391/5903165?redirectedFrom=fulltext)
 
