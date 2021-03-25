@@ -43,7 +43,7 @@ Win ratio is a novel approach to analyze prioritized composite endpoints. After 
 
 - [The win ratio: Impact of censoring and follow‐up time and use with nonproportional hazards](https://onlinelibrary.wiley.com/doi/full/10.1002/pst.1977?casa_token=FoLNO8bdSwkAAAAA%3Ahrpi3ENz_dkOXGHpKUKHJiOgP4ePBDgf04_rssrCMtHE9PJw6H-QGGieJxzAPQdH3vCpqoyUUaCZ_aY), Dong 2019
 
-- [Adjusting win statistics for dependent censoring](Adjusting win statistics for dependent censoring), Dong et al. 2020
+- [Adjusting win statistics for dependent censoring](https://onlinelibrary.wiley.com/doi/full/10.1002/pst.2086?casa_token=e-WS1tTTq20AAAAA%3AI8SyPPVOsw72CAt3-EJieE1X-dGyP8ASs6-QtFGIt0-i6rKkW5mrs0ZOq1myjbZXK3lxYyqUujZMRok2ng), Dong et al. 2020
 
 **Handling of Ties:** [The Win Ratio: On Interpretation and Handling of Ties](https://www.tandfonline.com/doi/abs/10.1080/19466315.2019.1575279?journalCode=usbr20), Dong 2019
 
