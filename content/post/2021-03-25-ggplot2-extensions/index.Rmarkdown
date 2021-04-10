@@ -1,5 +1,5 @@
 ---
-title: R packages that make ggplot2 more beautiful
+title: R packages that make ggplot2 more beautiful (Vol. I)
 author: Tuo Wang
 date: '2021-03-25'
 slug: []
