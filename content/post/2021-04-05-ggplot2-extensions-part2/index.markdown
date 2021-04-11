@@ -345,6 +345,8 @@ penguins_comp %>%
 
 ## Additional resources:
 
+[Zev Ross's ggplot2 cheatsheet](http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/)
+
 [Cédric Scherer's blog](https://www.cedricscherer.com/)
 
 [Georgios Karamanis's blog](https://karaman.is/dataviz/)
