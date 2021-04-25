@@ -1,0 +1,204 @@
+---
+title: Themes and Colors in ggplot2
+author: Tuo Wang
+date: '2021-04-25'
+slug: []
+categories: []
+tags:
+  - Data Science
+  - Data Visualization
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-04-25T13:01:31-05:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+In this tutorial, I summarized some useful websites to help us dealing with themes and colors in `ggplot2`.  
+
+`ggplot2` allows colors with predefined names and with hex code (e.g.: "#FF0000"). Some predefined color names can be found here:
+
+- [Predefined Color Names](http://sape.inf.usi.ch/quick-reference/ggplot2/colour)
+
+Besides, I like exploring other color palettes from the following two websites:
+
+- [COOLORS color palettes](https://coolors.co/palettes/trending)
+
+- [Color Hunt color palettes](https://colorhunt.co/palettes/popular)
+
+Fortunately, some data visualization enthusiasts create some user-friendly R packages with a wide range of many beautiful themes and color palettes. 
+
+- [RColorBrewer Package](https://cran.r-project.org/web/packages/RColorBrewer/index.html), [corresponding notes](https://earlglynn.github.io/RNotes/package/RColorBrewer/index.html)
+
+- [Wes Anderson Palettes](https://github.com/karthik/wesanderson)
+
+- [ggthemes](https://jrnold.github.io/ggthemes/)
+
+- [ggthemr](https://github.com/Mikata-Project/ggthemr)
+
+- [Scientiic Journal themes](https://cran.r-project.org/web/packages/ggsci/vignettes/ggsci.html)
+
+- [Tech companies theme](https://github.com/ricardo-bion/ggtech)
+
+- [BBC News theme](https://github.com/bbc/bbplot/)
+
+- [ggpomological: A pomological ggplot2 Theme](https://www.garrickadenbuie.com/project/ggpomological/)
+
+If you have patience and you can actually create your own themes and color palettes. The official document about modifying `ggplot` theme can be found [here](https://ggplot2.tidyverse.org/reference/theme.html)
+
+For example, here is my most frequently used theme set up.
+
+```{r eval=FALSE, echo=TRUE}
+library(showtext)
+library(ggplot2)
+
+font_add_google("Roboto", "roboto")
+showtext_auto()
+
+theme_set(theme_bw())
+theme_update(
+  text = element_text(family = "roboto", size = 8, color = "black"),
+  plot.title = element_text(family = "roboto", size = 15,
+                            face = "bold", color="#2a475e"),
+  plot.subtitle = element_text(family = "roboto", size = 10,
+                               face = "bold", color="#1b2838"),
+  plot.caption = element_text(size = 10),
+  axis.title.y = element_text(face="bold", angle=90),
+  axis.title.x = element_text(face="bold"),
+  axis.text.x = element_text(size = 10, color = "black"),
+  axis.text.y = element_text(size = 10, color = "black"),
+  axis.title = element_text(size=12),
+  rect = element_blank(),
+  panel.grid = element_line(color = "#b4aea9"),
+  panel.grid.minor = element_blank(),
+  panel.grid.major.x = element_blank(),
+  plot.title.position = "plot",
+  panel.grid.major.y = element_line(linetype="dashed"),
+  axis.ticks = element_blank(),
+  axis.line = element_line(colour = "grey50"),
+  plot.background = element_rect(fill = '#fbf9f4', color = '#fbf9f4')
+)
+```
+
+You can also create your own color palettes:
+
+```{r eval=FALSE, echo=TRUE}
+library(scales)
+library(ggplot2)
+
+scale_fill_tuo <- function(...){
+      ggplot2::discrete_scale(
+        "fill","tuo", 
+        scales::manual_pal(
+          values = c(
+            "#386cb0","#fdb462","#7fc97f",
+            "#ef3b2c","#662506","#a6cee3",
+            "#fb9a99","#984ea3","#ffff33", "#000099")),
+        ...)
+}
+
+scale_colour_tuo <- function(...){
+      ggplot2::discrete_scale(
+        "colour","tuo", 
+        scales::manual_pal(
+          values = c(
+            "#386cb0","#fdb462","#7fc97f",
+            "#ef3b2c","#662506","#a6cee3",
+            "#fb9a99","#984ea3","#ffff33","#000099")),
+        ...)
+}
+```
+
+```{r eval=FALSE, echo=TRUE}
+library(tidyverse)
+library(palmerpenguins)
+
+penguins_comp <- penguins %>%
+  drop_na() 
+
+penguins_comp %>% 
+  ggplot(aes(x=flipper_length_mm, y=bill_length_mm)) +
+  geom_point(aes(color=species, shape=species), size=2, alpha=0.8) +
+  labs(
+    title = "Palmer Penguins Data Visualization",
+    subtitle = "Scatter plot of flipper lenth vs bill length",
+    x = "flip length (mm)",
+    y = "bill length (mm)"
+  )
+
+```
+
+![color1](1.png)
+
+Then we can add `scale_colour_tuo()` directly after a `ggplot` object.
+
+```{r eval=FALSE, echo=TRUE}
+penguins_comp %>% 
+  ggplot(aes(x=flipper_length_mm, y=bill_length_mm)) +
+  geom_point(aes(color=species, shape=species), size=2, alpha=0.8) +
+  labs(
+    title = "Palmer Penguins Data Visualization",
+    subtitle = "Scatter plot of flipper lenth vs bill length",
+    x = "flip length (mm)",
+    y = "bill length (mm)"
+  ) +
+  scale_colour_tuo()
+```
+
+![color2](2.png)
+
+Instead of setting themes at the beginning, you can also create a theme function.
+
+```{r eval=FALSE, echo=TRUE}
+
+theme_tuo <- function(...){
+  library(showtext)
+  font_add_google("Roboto", "roboto")
+  showtext_auto()
+  theme(
+    text = element_text(family = "roboto", size = 8, color = "black"),
+    plot.title = element_text(family = "roboto", size = 15,
+                            face = "bold", color="#2a475e"),
+    plot.subtitle = element_text(family = "roboto", size = 10,
+                               face = "bold", color="#1b2838"),
+    plot.caption = element_text(size = 10),
+    axis.title.y = element_text(face="bold", angle=90),
+    axis.title.x = element_text(face="bold"),
+    axis.text.x = element_text(size = 10, color = "black"),
+    axis.text.y = element_text(size = 10, color = "black"),
+    axis.title = element_text(size=12),
+    rect = element_blank(),
+    panel.grid = element_line(color = "#b4aea9"),
+    panel.grid.minor = element_blank(),
+    panel.grid.major.x = element_blank(),
+    plot.title.position = "plot",
+    panel.grid.major.y = element_line(linetype="dashed"),
+    axis.ticks = element_blank(),
+    axis.line = element_line(colour = "grey50"),
+    plot.background = element_rect(fill = '#fbf9f4', color = '#fbf9f4')
+    )
+}
+```
+
+```{r eval=FALSE, echo=TRUE}
+penguins_comp %>% 
+  ggplot(aes(x=flipper_length_mm, y=bill_length_mm)) +
+  geom_point(aes(color=species, shape=species), size=2, alpha=0.8) +
+  labs(
+    title = "Palmer Penguins Data Visualization",
+    subtitle = "Scatter plot of flipper lenth vs bill length",
+    x = "flip length (mm)",
+    y = "bill length (mm)"
+  ) +
+  scale_colour_tuo()+
+  theme_tuo()
+```
+
+![color3](3.png)
+
+
