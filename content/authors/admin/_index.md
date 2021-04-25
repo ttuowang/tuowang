@@ -4,13 +4,13 @@ authors:
 bio: 
 education:
   courses:
-  - course: PhD in Biomedical Data Science
+  - course: Ph.D. in Biomedical Data Science
     institution: University of Wisconsin-Madison
     year: 2018 - (in progress)
-  - course: MS in Statistics
+  - course: M.S. in Statistics
     institution: University of Michigan-Ann Arbor
     year: 2016 - 2018
-  - course: BS in Mathematics
+  - course: B.S. in Mathematics
     institution: Sun Yat-sen University
     year: 2012 - 2016
 email: ""
@@ -49,4 +49,4 @@ I am a third-year Ph.D. student in biomedical data science in the department of 
 
 Before coming to UW-Madson, I received my bachelor degree in mathematics and applied mathematics from Sun Yat-sen University, and my master degree in applied statistics from University of Michigan, Ann Arbor (Umich). When I was in Umich, I worked in [Statistics Online Computational Resource (SOCR)](http://www.socr.umich.edu/) team supervised by Prof. Ivo Dinvo. I also worked with [Prof. Lili Zhao](https://sph.umich.edu/faculty-profiles/zhao-lili.html).
 
-My research focuses on causal inference, clinical trials and statistical methods for composite endpoints. I'm also enthusiastic about data science and data visualization in R. 
+My research focuses on causal inference, clinical trials and statistical methods for composite endpoints. I'm also enthusiastic about data science and data visualization in R. You can find my contributions to [TidyTuesday](https://github.com/rfordatascience/tidytuesday) in my [github](https://github.com/ttuowang/tidytuesday)
