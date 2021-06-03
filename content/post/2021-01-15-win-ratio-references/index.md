@@ -49,7 +49,11 @@ Win ratio is a novel approach to analyze prioritized composite endpoints. After 
 
 - [Win odds: An adaptation of the win ratio to include ties](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.8967?casa_token=aZWSuQx0R-sAAAAA%3A7pSCiZkAZVs2AaHpxSNLXi2k2E2Hcjkw6s2j63DnJCWvnwKQ08nBulZCeLfaD2gUF1RQb4Iscsk4-Q8), Brunner 2021
 
-**Regression:** [A class of proportional win-fractions regression models for composite outcomes](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13382), Mao and Wang 2020
+**Regression:** 
+
+- [A class of proportional win-fractions regression models for composite outcomes](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13382), Mao and Wang 2020
+
+- Stratified Proportional Win-fractions Regression Analysis (In preparation)
 
 ### Application
 
@@ -67,7 +71,7 @@ Win ratio is a novel approach to analyze prioritized composite endpoints. After 
 
 - Win ratio regression R package: [WR](https://cran.r-project.org/web/packages/WR/index.html)
 
-- Weighted win ratio R package: [WWR](https://cran.r-project.org/web/packages/WWR/WWR.pdf)
+- Weighted win ratio R package: [WWR](https://cran.r-project.org/web/packages/WWR/WWR.pdf), [paper](https://www.hoajonline.com/medicalstat/2053-7662/5/4)
 
 - R package for computing confidence interval based on Bebu and Lachin (2016):[WinRatio](https://cran.r-project.org/web/packages/WinRatio/WinRatio.pdf)
 
