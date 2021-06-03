@@ -53,8 +53,6 @@ Win ratio is a novel approach to analyze prioritized composite endpoints. After 
 
 - [A class of proportional win-fractions regression models for composite outcomes](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13382), Mao and Wang 2020
 
-- Stratified Proportional Win-fractions Regression Analysis (In preparation)
-
 ### Application
 
 - [Sodium-glucose co-transporter 2 inhibition in patients hospitalized for acute decompensated heart failure: rationale for and design of the EMPULSE trial](https://europepmc.org/article/med/33609072)
