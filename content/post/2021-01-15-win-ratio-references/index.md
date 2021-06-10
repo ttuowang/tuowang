@@ -11,6 +11,12 @@ Win ratio is a novel approach to analyze prioritized composite endpoints. After 
 
 ### Theory
 
+**Background:**
+
+- [Combining mortality and longitudinal measures in clinical trials.](https://onlinelibrary.wiley.com/doi/abs/10.1002/%28SICI%291097-0258%2819990615%2918%3A11%3C1341%3A%3AAID-SIM129%3E3.0.CO%3B2-7), Finkelstein and Schoenfeld (1999)
+
+- [Generalized pairwise comparisons of prioritized outcomes in the two-sample problem.](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.3923), Buyse (2010)
+
 **Original paper:** [The win ratio: a new approach to the analysis of composite endpoints in clinical trials based on clinical priorities](https://academic.oup.com/eurheartj/article/33/2/176/439013), Pocock et al. (2012)
 
 **Analytic variance formulas for win ratio:** 
@@ -21,33 +27,33 @@ Win ratio is a novel approach to analyze prioritized composite endpoints. After 
 
 - [A generalized analytic solution to the win ratio to analyze a composite endpoint considering the clinical importance order among components](https://onlinelibrary.wiley.com/doi/full/10.1002/pst.1763?casa_token=7OaTK3AD2W4AAAAA%3AAJDGGnu-lzjcqN00i1dMqqbwR5ae-7oOXP1P9lswjjlyS2nw64-mRgLMYHthn34oHjaf6A604n-VI2c), Dong (2016). 
 
-**Alternative hypothesis:** [On the alternative hypotheses for the win ratio](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.12954), Mao 2019
+**Alternative hypothesis:** [On the alternative hypotheses for the win ratio](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.12954), Mao (2019)
 
 **Weighted win ratio:**
 
-- [Weighted win loss approach for analyzing prioritized outcomes](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.7284), Luo et al. 2017
+- [Weighted win loss approach for analyzing prioritized outcomes](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.7284), Luo et al. (2017)
 
 - [Some Meaningful Weighted Log-Rank and Weighted Win Loss Statistics](https://link.springer.com/article/10.1007/s12561-020-09273-4)
 
-**Stratified win ratio:** [The stratified win ratio](https://www.tandfonline.com/doi/abs/10.1080/10543406.2017.1397007?journalCode=lbps20#:~:text=Consider%20a%20clinical%20trial%20with,2%2C%20%E2%80%A6%2C%20M), Dong 2017
+**Stratified win ratio:** [The stratified win ratio](https://www.tandfonline.com/doi/abs/10.1080/10543406.2017.1397007?journalCode=lbps20#:~:text=Consider%20a%20clinical%20trial%20with,2%2C%20%E2%80%A6%2C%20M), Dong (2017)
 
 **Dependency on follow-up time:**
 
-- Curtailed win ratio: [On the win-ratio statistic in clinical trials with multiple types of event](https://academic.oup.com/biomet/article-abstract/103/3/742/1743978?redirectedFrom=fulltext), Oakes 2017
+- Curtailed win ratio: [On the win-ratio statistic in clinical trials with multiple types of event](https://academic.oup.com/biomet/article-abstract/103/3/742/1743978?redirectedFrom=fulltext), Oakes (2016)
 
-- [Graphing the win ratio and its components over time](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.7895), Finkelstein and Schoenfeld 2019
+- [Graphing the win ratio and its components over time](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.7895), Finkelstein and Schoenfeld (2019)
 
-- [Adjusting win statistics for dependent censoring](https://onlinelibrary.wiley.com/doi/abs/10.1002/pst.2086), Dong 2020
+- [Adjusting win statistics for dependent censoring](https://onlinelibrary.wiley.com/doi/abs/10.1002/pst.2086), Dong (2020)
 
-- [The inverse-probability-of-censoring weighting (IPCW) adjusted win ratio statistic: an unbiased estimator in the presence of independent censoring](https://www.tandfonline.com/doi/abs/10.1080/10543406.2020.1757692), Dong et al. 2020
+- [The inverse-probability-of-censoring weighting (IPCW) adjusted win ratio statistic: an unbiased estimator in the presence of independent censoring](https://www.tandfonline.com/doi/abs/10.1080/10543406.2020.1757692), Dong et al. (2020)
 
-- [The win ratio: Impact of censoring and follow‐up time and use with nonproportional hazards](https://onlinelibrary.wiley.com/doi/full/10.1002/pst.1977?casa_token=FoLNO8bdSwkAAAAA%3Ahrpi3ENz_dkOXGHpKUKHJiOgP4ePBDgf04_rssrCMtHE9PJw6H-QGGieJxzAPQdH3vCpqoyUUaCZ_aY), Dong et al. 2019
+- [The win ratio: Impact of censoring and follow‐up time and use with nonproportional hazards](https://onlinelibrary.wiley.com/doi/full/10.1002/pst.1977?casa_token=FoLNO8bdSwkAAAAA%3Ahrpi3ENz_dkOXGHpKUKHJiOgP4ePBDgf04_rssrCMtHE9PJw6H-QGGieJxzAPQdH3vCpqoyUUaCZ_aY), Dong et al. (2019)
 
 **Handling of Ties:** 
 
-- [The Win Ratio: On Interpretation and Handling of Ties](https://www.tandfonline.com/doi/abs/10.1080/19466315.2019.1575279?journalCode=usbr20), Dong 2019
+- [The Win Ratio: On Interpretation and Handling of Ties](https://www.tandfonline.com/doi/abs/10.1080/19466315.2019.1575279?journalCode=usbr20), Dong (2019)
 
-- [Win odds: An adaptation of the win ratio to include ties](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.8967?casa_token=aZWSuQx0R-sAAAAA%3A7pSCiZkAZVs2AaHpxSNLXi2k2E2Hcjkw6s2j63DnJCWvnwKQ08nBulZCeLfaD2gUF1RQb4Iscsk4-Q8), Brunner 2021
+- [Win odds: An adaptation of the win ratio to include ties](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.8967?casa_token=aZWSuQx0R-sAAAAA%3A7pSCiZkAZVs2AaHpxSNLXi2k2E2Hcjkw6s2j63DnJCWvnwKQ08nBulZCeLfaD2gUF1RQb4Iscsk4-Q8), Brunner (2021)
 
 **Win ratio for recurrent events:**
 
@@ -55,13 +61,13 @@ Win ratio is a novel approach to analyze prioritized composite endpoints. After 
 
 **Sample size calculation:** 
 
-- [Sample size formula for general win ratio analysis](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13501), Mao 2021
+- [Sample size formula for general win ratio analysis](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13501), Mao (2021)
 
 **Regression:** 
 
-- [A class of proportional win-fractions regression models for composite outcomes](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13382), Mao and Wang 2020
+- [A class of proportional win-fractions regression models for composite outcomes](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13382), Mao and Wang (2020)
 
-- [Stratified Proportional Win-fractions Regression Analysis], Wang and Mao 2021+
+- [Stratified Proportional Win-fractions Regression Analysis], Wang and Mao (2021+)
 
 ### Application
 
