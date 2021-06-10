@@ -49,9 +49,15 @@ Win ratio is a novel approach to analyze prioritized composite endpoints. After 
 
 - [Win odds: An adaptation of the win ratio to include ties](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.8967?casa_token=aZWSuQx0R-sAAAAA%3A7pSCiZkAZVs2AaHpxSNLXi2k2E2Hcjkw6s2j63DnJCWvnwKQ08nBulZCeLfaD2gUF1RQb4Iscsk4-Q8), Brunner 2021
 
+**Sample size calculation:** 
+
+- [Sample size formula for general win ratio analysis](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13501), Mao 2021
+
 **Regression:** 
 
 - [A class of proportional win-fractions regression models for composite outcomes](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13382), Mao and Wang 2020
+
+- [Stratified Proportional Win-fractions Regression Analysis], Wang and Mao 2021+
 
 ### Application
 
@@ -64,6 +70,8 @@ Win ratio is a novel approach to analyze prioritized composite endpoints. After 
 - [A win ratio approach to comparing continuous non-normal outcomes in clinical trials](https://onlinelibrary.wiley.com/doi/abs/10.1002/pst.1743)
 
 - [The win ratio approach to analyzing composite outcomes: An application to the EVOLVE trial](https://www.sciencedirect.com/science/article/pii/S1551714416300489?casa_token=qJIvmltRtgEAAAAA:dVhV7TziNHvrSVwu7xyUZrbeDNoTEg_-y7xBSaowrxqIaT7G5mIkYrfIz1-mqE1fnGqKcJkHGA) 
+
+- [Therapeutic versus prophylactic anticoagulation for patients admitted to hospital with COVID-19 and elevated D-dimer concentration (ACTION): an open-label, multicentre, randomised, controlled trial](https://www.sciencedirect.com/science/article/pii/S0140673621012034?casa_token=oFBgfIvLsFgAAAAA:Aomr6uRE2QycQzLf8qIy25tuLWk6IclyYp-Bt-l-tT3a5Uyy7ahgX0_C1KNwnd29hyx4aTWwKjJn)
 
 ### Software
 
