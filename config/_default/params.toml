@@ -26,7 +26,7 @@ font = "alison"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "M"
+font_size = "L"
 
 ############################
 ## Basic Info
@@ -62,7 +62,7 @@ highlight_style = "tomorrow"  # For supported styles, see https://cdnjs.com/libr
 
 # Enable LaTeX math rendering? true/false
 #   If false, you can enable math on a per page basis as needed.
-math = false
+math = true
 
 # Enable diagram rendering? true/false
 #   If false, you can enable diagrams on a per page basis as needed.
@@ -199,7 +199,7 @@ plugins_js  = []
   #   2: Compact
   #   3: Card
   #   4: Citation (publications only)
-  project_review = 2
+  project_review = 3
   post_view = 2
   publication_view = 2
   talk_view = 2
