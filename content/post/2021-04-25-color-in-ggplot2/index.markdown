@@ -104,7 +104,7 @@ scale_fill_tuo <- function(...){
         ...)
 }
 
-scale_colour_tuo <- function(...){
+scale_color_tuo <- function(...){
       ggplot2::discrete_scale(
         "colour","tuo", 
         scales::manual_pal(
@@ -150,7 +150,7 @@ penguins_comp %>%
     x = "flip length (mm)",
     y = "bill length (mm)"
   ) +
-  scale_colour_tuo()
+  scale_color_tuo()
 ```
 
 ![color2](2.png)
@@ -199,7 +199,7 @@ penguins_comp %>%
     x = "flip length (mm)",
     y = "bill length (mm)"
   ) +
-  scale_colour_tuo()+
+  scale_color_tuo()+
   theme_tuo()
 ```
 
