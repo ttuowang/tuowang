@@ -89,7 +89,7 @@ Win ratio is a novel approach to analyze prioritized composite endpoints. After 
 
 - R code for computing confidence interval based on Luo et al. (2015): [R code](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fbiom.12225&file=biom12225-sup-0001-SupData-S1.pdf)
 
-
+- Supplemental material for Redfors, Björn, et al. "The win ratio approach for composite endpoints: practical guidance based on previous experience." [R code](https://github.com/CRF-Biostatistics/WinRatioApplications)
 
 
 
