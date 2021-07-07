@@ -19,6 +19,8 @@ image:
 projects: []
 ---
 
+Some figures in this blog have been shared in the [R Graph Gallery](http://www.r-graph-gallery.com/web-scatterplot-and-ggrepel.html). [Yan Holtz](https://www.yan-holtz.com/) built the [R Graph Gallery](http://www.r-graph-gallery.com/index.html). 
+
 In this tutorial, I will introduce some additional R packages that help [`ggplot2`](https://ggplot2.tidyverse.org/) make better visualizations. To make better data visualizations, it is inevitably to manipulate the dataframe often. I recommend using [`tidyverse`](https://www.tidyverse.org/) for data cleaning and data wrangling. If you are not familiar with `tidyverse`, here is a great [beginner tutorial](https://github.com/spcanelon/tour-of-the-tidyverse). I will use the penguins data from the [`palmerpenguins`](https://allisonhorst.github.io/palmerpenguins/) R package for illustration. In this tutorial, I will briefly introduce three packages: `showtext`, `patchwork` and `ggrepel` with some examples.
 
 ## 1. Load Data
