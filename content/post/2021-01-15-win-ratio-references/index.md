@@ -77,8 +77,6 @@ Win ratio is a novel approach to analyze prioritized composite endpoints. After 
 
 - [The win ratio approach to analyzing composite outcomes: An application to the EVOLVE trial](https://www.sciencedirect.com/science/article/pii/S1551714416300489?casa_token=qJIvmltRtgEAAAAA:dVhV7TziNHvrSVwu7xyUZrbeDNoTEg_-y7xBSaowrxqIaT7G5mIkYrfIz1-mqE1fnGqKcJkHGA) 
 
-- [Therapeutic versus prophylactic anticoagulation for patients admitted to hospital with COVID-19 and elevated D-dimer concentration (ACTION): an open-label, multicentre, randomised, controlled trial](https://www.sciencedirect.com/science/article/pii/S0140673621012034?casa_token=oFBgfIvLsFgAAAAA:Aomr6uRE2QycQzLf8qIy25tuLWk6IclyYp-Bt-l-tT3a5Uyy7ahgX0_C1KNwnd29hyx4aTWwKjJn)
-
 - [Therapeutic versus prophylactic anticoagulation for patients admitted to hospital with COVID-19 and elevated D-dimer concentration (ACTION): an open-label, multicentre, randomised, controlled trial](https://www.sciencedirect.com/science/article/pii/S0140673621012034?casa_token=UVJyukKGN28AAAAA:9hgoK28zFxc1-P2kTnp4J0tJ7N16c_PF5YnbzTlZpqrEfg1EuGsV41rXMyTDamMIjS2y0Mq3kUKs)
 
 - [Dapagliflozin in patients with cardiometabolic risk factors hospitalised with COVID-19 (DARE-19): a randomised, double-blind, placebo-controlled, phase 3 trial](https://www.sciencedirect.com/science/article/pii/S2213858721001807)
