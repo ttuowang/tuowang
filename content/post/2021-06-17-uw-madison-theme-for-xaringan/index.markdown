@@ -21,7 +21,7 @@ projects: []
 
 In May, I passed my Ph.D. prelim exam! When I was preparing the prelim slides, I really wanted to try something new. I'm tired of the `beamer` slides (no offense, just because they are everywhere). Then I found the [`xaringan`](https://github.com/yihui/xaringan) R package. The `xaringan` package enable us to create slides in R Markdown with [`remark.js`](https://remarkjs.com/#1). The name comes from Sharingan from the anime Naruto! 😄😄😂
 
-I think `xaringan` is game-changer for presentation, especially you need present any R codes. Like the `beamer` slides, `xaringan` has many themes. However, there is no theme for University of Wisconsin-Madison. Therefore, when I was creating my prelim slides using `xaringan`, I created a UW-Madison theme inspired by [Joseph Casillas's](https://www.jvcasillas.com/) [Rutgers theme](https://github.com/jvcasillas/ru_xaringan). Recently, [Yihui](https://yihui.org/en/about/), the author of `xaringan`, approved my pull request about the UW-Madison theme. This is actually my first pull request! Here are some a couple of screenshots for the theme:
+I think `xaringan` is game-changer for presentation, especially when you need present any R codes. Like the `beamer` slides, `xaringan` has many themes. However, there is no theme for University of Wisconsin-Madison. Therefore, when I was creating my prelim slides using `xaringan`, I created a UW-Madison theme inspired by [Joseph Casillas's](https://www.jvcasillas.com/) [Rutgers theme](https://github.com/jvcasillas/ru_xaringan). Recently, [Yihui](https://yihui.org/en/about/), the author of `xaringan`, approved my pull request about the UW-Madison theme. This is actually my first pull request! Here are some screenshots for the theme:
 
 ![demo1](1.png)
 
