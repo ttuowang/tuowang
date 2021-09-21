@@ -45,7 +45,7 @@ user_groups:
 - Visitors
 ---
 
-I am a third-year Ph.D. student in biomedical data science in the department of [Biostatistics & Medical Informatics at UW-Madison](https://biostat.wiscweb.wisc.edu/). My advisor is [Prof. Lu Mao](https://sites.google.com/view/lmaowisc/home). I also work as a biostatistician at [Data Coordinating Center](https://biostat.wiscweb.wisc.edu/research/clinical-trials/data-coordinating-center/).
+I am a fourth-year Ph.D. student from the department of [Biostatistics & Medical Informatics at UW-Madison](https://biostat.wiscweb.wisc.edu/). My advisor is [Prof. Lu Mao](https://sites.google.com/view/lmaowisc/home). I also work as a biostatistician at [Data Coordinating Center](https://biostat.wiscweb.wisc.edu/research/clinical-trials/data-coordinating-center/).
 
 Before coming to UW-Madson, I received my bachelor degree in mathematics and applied mathematics from Sun Yat-sen University, and my master degree in applied statistics from University of Michigan, Ann Arbor (Umich). When I was in Umich, I worked in [Statistics Online Computational Resource (SOCR)](http://www.socr.umich.edu/) team supervised by Prof. Ivo Dinvo. I also worked with [Prof. Lili Zhao](https://sph.umich.edu/faculty-profiles/zhao-lili.html).
 
