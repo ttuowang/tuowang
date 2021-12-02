@@ -2,7 +2,7 @@
 abstract = ""
 
 authors = ["Qu, Y.", "**Wang, T.**", "Zilinskas, R.", "Li, Y."]
-date = "2021-12"
+date = "2021-12-01"
 image_preview = ""
 math = true
 publication_types = ["2"]
