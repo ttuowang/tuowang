@@ -2,7 +2,7 @@
 abstract = ""
 
 authors = ["Zijie Zhao", "Jie Song",  "**Tuo Wang**", "Qiongshi Lu"]
-date = "2020-01"
+date = "2020-10-30"
 image_preview = ""
 math = true
 publication_types = ["2"]
