@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://tuowang.rbind.io/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Tuo Wang"
