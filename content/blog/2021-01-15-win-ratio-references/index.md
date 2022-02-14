@@ -24,7 +24,7 @@ Win ratio is a novel approach to analyze prioritized composite endpoints. After 
 
 **Original paper:** [The win ratio: a new approach to the analysis of composite endpoints in clinical trials based on clinical priorities](https://academic.oup.com/eurheartj/article/33/2/176/439013), Pocock et al. (2012)
 
-**Analytic variance formulas for win ratio:** 
+**Inference for win ratio:** 
 
 - [Large sample inference for a win ratio analysis of a composite outcome based on prioritized components](https://academic.oup.com/biostatistics/article/17/1/178/1744479), Bebu and Lachin (2015)
 
@@ -34,7 +34,9 @@ Win ratio is a novel approach to analyze prioritized composite endpoints. After 
 
 - [The asymptotic distribution of the Net Benefit estimator in presence of right-censoring](https://journals.sagepub.com/doi/full/10.1177/09622802211037067?casa_token=kaVqsz-TshQAAAAA%3AvxrzjkiQxqKIl3f7_tPmfZSAz_1hvKLVtSdXneXl1KcxohOPrYnVFwXjGSN8TsiRk0S8Pw-dfLmThQ4), Ozenne (2021).
 
-- [https://link.springer.com/article/10.1007/s42081-021-00131-1](https://link.springer.com/article/10.1007/s42081-021-00131-1), Zhang and Jeong (2021)
+- [Inference on win ratio for cluster-randomized semi-competing risk data](https://link.springer.com/article/10.1007/s42081-021-00131-1), Zhang and Jeong (2021)
+
+- [Evaluation of inferential methods for the net benefit and win ratio statistics](https://www.tandfonline.com/doi/abs/10.1080/10543406.2020.1730873), Verbeeck (2019)
 
 **Alternative hypothesis:** [On the alternative hypotheses for the win ratio](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.12954), Mao (2019)
 
@@ -44,7 +46,11 @@ Win ratio is a novel approach to analyze prioritized composite endpoints. After 
 
 - [Some Meaningful Weighted Log-Rank and Weighted Win Loss Statistics](https://link.springer.com/article/10.1007/s12561-020-09273-4), Luo and Quan (2020)
 
-**Stratified win ratio:** [The stratified win ratio](https://www.tandfonline.com/doi/abs/10.1080/10543406.2017.1397007?journalCode=lbps20#:~:text=Consider%20a%20clinical%20trial%20with,2%2C%20%E2%80%A6%2C%20M), Dong (2017)
+**Stratified win ratio:** 
+
+- [The stratified win ratio](https://www.tandfonline.com/doi/abs/10.1080/10543406.2017.1397007?journalCode=lbps20#:~:text=Consider%20a%20clinical%20trial%20with,2%2C%20%E2%80%A6%2C%20M), Dong st al. (2017)
+
+- [Adjusted win ratio with stratification: Calculation methods and interpretation](https://journals.sagepub.com/doi/full/10.1177/0962280220942558?casa_token=JyQzTdPebh8AAAAA%3Akpqsz0vsFcFmiiStB-D-5zbN3CqA3F0GCh-dVk5Wbh5oQF1nfUqRfSDrJxf409MzzXt5MKWP6gDx2gE), Gasparyan et al. (2020)
 
 **Dependency on follow-up time:**
 
@@ -64,6 +70,8 @@ Win ratio is a novel approach to analyze prioritized composite endpoints. After 
 
 - [Win odds: An adaptation of the win ratio to include ties](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.8967?casa_token=aZWSuQx0R-sAAAAA%3A7pSCiZkAZVs2AaHpxSNLXi2k2E2Hcjkw6s2j63DnJCWvnwKQ08nBulZCeLfaD2gUF1RQb4Iscsk4-Q8), Brunner (2021)
 
+- [The use of the win odds in the design of non-inferiority clinical trials](https://www.tandfonline.com/doi/abs/10.1080/10543406.2020.1757690), Peng (2019)
+
 **Sample size calculation:** 
 
 - [Sample size formula for general win ratio analysis](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13501), Mao (2021)
@@ -80,23 +88,27 @@ Win ratio is a novel approach to analyze prioritized composite endpoints. After 
 
 - [Statistical Models for Composite Endpoints of Death and Nonfatal Events: A Review](https://www.tandfonline.com/doi/abs/10.1080/19466315.2021.1927824), Mao and Kim (2021)
 
+- [Statistical methods for composite endpoints](https://eurointervention.pcronline.com/article/the-a-b-c-of-multiple-statistical-methods-for-composite-endpoints), Hara et al. (2021)
+
 ### Application
 
-Overview:
+<b><span style="font-size:22px;color: #A154F6;">Overview:</span></b>
 
-  - The win ratio approach for composite endpoints: practical guidance based on previous experience,[paper](https://academic.oup.com/eurheartj/article-abstract/41/46/4391/5903165?redirectedFrom=fulltext)
+  - The win ratio approach for composite endpoints: practical guidance based on previous experience,[paper (2020)](https://academic.oup.com/eurheartj/article-abstract/41/46/4391/5903165?redirectedFrom=fulltext)
 
-Urology:
+<b><span style="font-size:22px;color: #A154F6;">Urology:</span></b>
 
   - Effect of Metabolic Syndrome on Anatomy and Function of the Lower Urinary Tract Assessed on MRI, [paper (2022)](https://www.sciencedirect.com/science/article/pii/S009042952100892X?casa_token=GntC6JflwAoAAAAA:2nfyjLx5C_u9OlbvQNSCgfTUNjgPIphaQnudwcXqHTUKMlj2LzgwVCIvmmwtb4RhobkcOuUTKfNT)
 
-COVID-19:
+<b><span style="font-size:22px;color: #A154F6;">COVID-19:</span></b>
 
-  - Revista Científica Hospital Santa Izabel: Therapeutic versus Prophylactic Anticoagulation for Patients Admitted to Hospital with COVID-19 and Elevated D-dimer Concentration (ACTION): An Open-Label, Multicentre, Randomised, Controlled Trial, [paper (2021)](https://www.sciencedirect.com/science/article/pii/S0140673621012034?casa_token=tAbiNA4i7EgAAAAA:iiZtYLiV_elqKkRkuZ55EKl_h0-cPgZjTjpS0pG-MLX9FAfAedbcvCI88ipnuJtX-P3JKzb8qXyX)
+  - Therapeutic versus Prophylactic Anticoagulation for Patients Admitted to Hospital with COVID-19 and Elevated D-dimer Concentration (ACTION): An Open-Label, Multicentre, Randomised, Controlled Trial, [paper (2021)](https://www.sciencedirect.com/science/article/pii/S0140673621012034?casa_token=tAbiNA4i7EgAAAAA:iiZtYLiV_elqKkRkuZ55EKl_h0-cPgZjTjpS0pG-MLX9FAfAedbcvCI88ipnuJtX-P3JKzb8qXyX)
   
   - Dapagliflozin in patients with cardiometabolic risk factors hospitalised with COVID-19 (DARE-19): a randomised, double-blind, placebo-controlled, phase 3 trial, [paper (2021)](https://www.sciencedirect.com/science/article/pii/S2213858721001807)
+  
+  - Dapagliflozin in patients with COVID-19: truth or dare, [paper (2021)](https://www.thelancet.com/journals/landia/article/PIIS2213-8587(21)00206-0/fulltext)
 
-Cardiovascular Disease related clinical trial:
+<b><span style="font-size:22px;color: #A154F6;">Cardiovascular Disease related clinical trial:</span></b>
 
   - Atrial shunt device for heart failure with preserved and mildly reduced ejection fraction (REDUCE LAP-HF II): a randomised, multicentre, blinded, sham-controlled trial, [paper (2022)](https://www.sciencedirect.com/science/article/pii/S0140673622000162?casa_token=Oxi5uZt_9jcAAAAA:KV3_mvi07Y0m4BjB3-Yg4nrEHxaA7jXs19kfF2kllpeGbsChU8zFkUh0FCn6VMyPj-YVzHG3scu7)
   
@@ -104,28 +116,37 @@ Cardiovascular Disease related clinical trial:
   
   - Sodium–glucose co-transporter 2 inhibition in patients hospitalized for acute decompensated heart failure: rationale for and design of the EMPULSE trial, [paper (2021)](https://onlinelibrary.wiley.com/doi/full/10.1002/ejhf.2137), <i><span style="color: red;">sponsored by Boehringer Ingelheim</span></i>.
 
-  - Tafamidis Treatment for Patients with Transthyretin Amyloid Cardiomyopathy, [paper (2018)](https://www.nejm.org/doi/full/10.1056/NEJMoa1805689), <i><span style="color: red;">ATTR-ACT trial, funded by Pfizer</span></i>.
-  
-  - Statistical Appraisal of 6 Recent Clinical Trials in Cardiology: JACC State-of-the-Art Review, [paper](https://www.sciencedirect.com/science/article/pii/S0735109719347205?via%3Dihub), <i><span style="color: red;">described how the ATTR-ACT trial used win ratio</span></i>.
-  
-  - Cardiopoietic cell therapy for advanced ischaemic heart failure: results at 39 weeks of the prospective, randomized, double blind, sham-controlled CHART-1 clinical trial, [paper (2017)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5381596/), <i><span style="color: red;">used a Finkelstein-Schoenfeld approach</span></i>
+  - Application of win ratio methodology in the Global SYMPLICITY Registry for patients with atrial fibrillation or obstructive sleep apnea , [paper, (2021)](https://academic.oup.com/eurheartj/article/42/Supplement_1/ehab724.2376/6392940)
 
-  - Applying novel methods to assess clinical outcomes: insights from the TRILOGY ACS trial, [paper (2014)](https://academic.oup.com/eurheartj/article/36/6/385/445850), <i><span style="color: red;">reanalyzed the results using win ratio</span></i>
-
-  - The win ratio approach to analyzing composite outcomes: An application to the EVOLVE trial, [paper (2016)](https://www.sciencedirect.com/science/article/pii/S1551714416300489?casa_token=qJIvmltRtgEAAAAA:dVhV7TziNHvrSVwu7xyUZrbeDNoTEg_-y7xBSaowrxqIaT7G5mIkYrfIz1-mqE1fnGqKcJkHGA), <i><span style="color: red;">reanalyzed the results using win ratio</span></i>
   
   - Use of the win ratio in cardiovascular trials, [paper (2020)](https://www.sciencedirect.com/science/article/pii/S221317792030202X?via%3Dihub) <i><span style="color: red;">reanalyzed several CV trials using win ratio</span></i>
 
-  - Hierarchical testing of composite endpoints: applying the win ratio to percutaneous coronary intervention versus coronary artery bypass grafting in the SYNTAX trial, [paper (2017)](https://pubmed.ncbi.nlm.nih.gov/28134125/)
+  - Statistical Appraisal of 6 Recent Clinical Trials in Cardiology: JACC State-of-the-Art Review, [paper (2019)](https://www.sciencedirect.com/science/article/pii/S0735109719347205?via%3Dihub), <i><span style="color: red;">described how the ATTR-ACT trial used win ratio</span></i>.
 
-Other:
+  - A win ratio approach to the re-analysis of Multiple Risk Factor Intervention Trial, [paper (2019)](https://journals.sagepub.com/doi/full/10.1177/1740774519868233?casa_token=6BF3ClNxP7YAAAAA%3ACtsAwxeLIDXOavM2OzlmSLFyJXhPBRPpmKoCIGhKgvzPwI1UcnbEXQ9xAqKpnI0HRifi3S8DJzCvoAs), <i><span style="color: red;">MRFIT trial</span></i>.
+
+  - Tafamidis Treatment for Patients with Transthyretin Amyloid Cardiomyopathy, [paper (2018)](https://www.nejm.org/doi/full/10.1056/NEJMoa1805689), <i><span style="color: red;">ATTR-ACT trial, funded by Pfizer</span></i>.
+
+  - Cardiopoietic cell therapy for advanced ischaemic heart failure: results at 39 weeks of the prospective, randomized, double blind, sham-controlled CHART-1 clinical trial, [paper (2017)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5381596/), <i><span style="color: red;">used a Finkelstein-Schoenfeld approach</span></i>
+  
+  - Hierarchical testing of composite endpoints: applying the win ratio to percutaneous coronary intervention versus coronary artery bypass grafting in the SYNTAX trial, [paper (2017)](https://pubmed.ncbi.nlm.nih.gov/28134125/), <i><span style="color: red;">reanalyzed the results using win ratio</span></i>
+    
+  - The win ratio approach to analyzing composite outcomes: An application to the EVOLVE trial, [paper (2016)](https://www.sciencedirect.com/science/article/pii/S1551714416300489?casa_token=qJIvmltRtgEAAAAA:dVhV7TziNHvrSVwu7xyUZrbeDNoTEg_-y7xBSaowrxqIaT7G5mIkYrfIz1-mqE1fnGqKcJkHGA), <i><span style="color: red;">reanalyzed the results using win ratio</span></i>
+  
+  - Applying novel methods to assess clinical outcomes: insights from the TRILOGY ACS trial, [paper (2014)](https://academic.oup.com/eurheartj/article/36/6/385/445850), <i><span style="color: red;">reanalyzed the results using win ratio</span></i>
+
+
+<b><span style="font-size:22px;color: #A154F6;">Other:</span></b>
 
   - Rationale and design of the safe and timely antithrombotic removal - ticagrelor (STAR-T) trial: A prospective, multi-center, double-blind, randomized controlled trial evaluating reductions in postoperative bleeding with intraoperative removal of ticagrelor by the drugsorb™-ATR device in patients undergoing cardiothoracic surgery within 48 hours from last ticagrelor dose, [paper(2022)](https://www.sciencedirect.com/science/article/pii/S0002870321004427)
+  - Prioritised endpoints for device-based hypertension trials: the win ratio methodology., [paper (2021)](https://europepmc.org/article/med/33226002)
+
+  - A win ratio approach to comparing continuous non-normal outcomes in clinical trials, [paper (2016)](https://onlinelibrary.wiley.com/doi/abs/10.1002/pst.1743), <i><span style="color: red;">used win ratio to reanalyze two clinical trials, CHARM and PLACIDE </span></i>
   
   - Transcatheter Aortic-Valve Implantation for Aortic Stenosis in Patients Who Cannot Undergo Surgery, [paper (2010)](https://www.nejm.org/doi/10.1056/NEJMoa1008232?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200www.ncbi.nlm.nih.gov), <i><span style="color: red;">used a Finkelstein-Schoenfeld approach</span></i>
 
-  - [A win ratio approach to comparing continuous non-normal outcomes in clinical trials](https://onlinelibrary.wiley.com/doi/abs/10.1002/pst.1743), <i><span style="color: red;">used win ratio to reanalyze two clinical trials, CHARM and PLACIDE </span></i>
 
+<b><span style="font-size:22px;color: #A154F6;">Summary:</span></b>
 
 Trials that have applied the win ratio approach as the pre-defined method to analyse their primary composite endpoint. <i><span style="color: red;">(table 2 in Redfors et al. 2020)</span></i>
 ![table 2](table2.png)
@@ -149,4 +170,6 @@ Trials that have re-analysed their primary composite endpoint using the win rati
 
 - Supplemental material for Redfors, Björn, et al. "The win ratio approach for composite endpoints: practical guidance based on previous experience." [R code](https://github.com/CRF-Biostatistics/WinRatioApplications)
 
-- Stata module to calculate the unmatched Win Ratio for prioritized outcomes: [website](https://econpapers.repec.org/software/bocbocode/s458984.htm)
+- Stata module to calculate the unmatched Win Ratio for prioritized outcomes, [Code](https://econpapers.repec.org/software/bocbocode/s458984.htm)
+
+- SAS example, [Code](https://www.lexjansen.com/phuse/2019/as/AS11.pdf)
