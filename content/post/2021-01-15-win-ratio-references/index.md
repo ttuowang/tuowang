@@ -110,6 +110,8 @@ Win ratio is a novel approach to analyze prioritized composite endpoints. After 
 
 <b><span style="font-size:22px;color: #A154F6;">Cardiovascular Disease related clinical trial:</span></b>
 
+  - A Study of Tirzepatide (LY3298176) in Participants With Heart Failure With Preserved Ejection Fraction and Obesity (SUMMIT) (SUMMIT), [Link](https://clinicaltrials.gov/ct2/show/NCT04847557?term=tirzepatide&cond=Heart+Failure&draw=2&rank=1), <i><span style="color: red;">undergoing trial in Eli Lilly and Company, win ratio as primary outcome analysis</span></i>.
+
   - Atrial shunt device for heart failure with preserved and mildly reduced ejection fraction (REDUCE LAP-HF II): a randomised, multicentre, blinded, sham-controlled trial, [paper (2022)](https://www.sciencedirect.com/science/article/pii/S0140673622000162?casa_token=Oxi5uZt_9jcAAAAA:KV3_mvi07Y0m4BjB3-Yg4nrEHxaA7jXs19kfF2kllpeGbsChU8zFkUh0FCn6VMyPj-YVzHG3scu7)
   
   - Outpatient diuretic intensification as endpoint in heart failure with preserved ejection fraction trials: an analysis from TOPCAT, [paper (2021)](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ejhf.2376)
