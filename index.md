@@ -40,6 +40,8 @@ Win ratio is a novel approach to analyze prioritized composite endpoints. After 
 
 **Alternative hypothesis:** [On the alternative hypotheses for the win ratio](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.12954), Mao (2019)
 
+**Recurrent event win ratio:** On recurrent-event win ratio, Mao et al. (2022)
+
 **Weighted win ratio:**
 
 - [Weighted win loss approach for analyzing prioritized outcomes](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.7284), Luo et al. (2017)
