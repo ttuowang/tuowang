@@ -28,7 +28,7 @@ cascade:
 
 - **Wang, T.**, Qu, Y., and Li, Y. (2022+). Win ratio: from estimands to estimation. *Under Review*
 
-- **Wang, T.** and Mao, L. (2022+). Stratified proportional win-fractions regression analysis. *Under Revision*. <i class="fab fa-r-project"></i>[R package](https://cran.r-project.org/web/packages/WR/index.html)
+- **Wang, T.** and Mao, L. (2022+). Stratified proportional win-fractions regression analysis. *Statistics in Medicine, accepted.*. <i class="fab fa-r-project"></i>[R package](https://cran.r-project.org/web/packages/WR/index.html)
 
 - Qu, Y., **Wang, T.**, Zilinskas, R., Li, Y (2021). Imputation for missing data from a multivariate outcome of mixed variable types. [arXiv:2206.01873](https://arxiv.org/abs/2206.01873) <i class="fab fa-github"></i>[Code](https://github.com/ttuowang/imputation-mix)
 
