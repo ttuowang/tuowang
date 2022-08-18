@@ -24,7 +24,7 @@ cascade:
     show_sidebar_adunit: false # show ad container
 ---
 
-- Mao, L. and **Wang, T.** (2022+). Dissecting the restricted mean time in favor of treatment. *Under Review* 
+- Mao, L. and <span style="color:blue">Wang, T.</span> **Wang, T.** (2022+). Dissecting the restricted mean time in favor of treatment. *Under Review* 
 
 - **Wang, T.**, Qu, Y., and Li, Y. (2022+). Win ratio: from estimands to estimation. *Under Review*
 
