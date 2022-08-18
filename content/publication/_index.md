@@ -26,18 +26,18 @@ cascade:
 
 - Mao, L. and <span style="color:#f4a261;font-weight:bold">Wang, T.</span>  (2022+). Dissecting the restricted mean time in favor of treatment. *Under Review* 
 
-- <span style="color:#faedcd;font-weight:bold">Wang, T.</span>, Qu, Y., and Li, Y. (2022+). Win ratio: from estimands to estimation. *Under Review*
+- <span style="color:#F08A5D;font-weight:bold">Wang, T.</span>, Qu, Y., and Li, Y. (2022+). Win ratio: from estimands to estimation. *Under Review*
 
-- <span style="color:#ffb4a2;font-weight:bold">Wang, T.</span> and Mao, L. (2022+). Stratified proportional win-fractions regression analysis. *Statistics in Medicine, accepted.*. <i class="fab fa-r-project"></i>[R package](https://cran.r-project.org/web/packages/WR/index.html)
+- <span style="color:#F08A5D;font-weight:bold">Wang, T.</span> and Mao, L. (2022+). Stratified proportional win-fractions regression analysis. *Statistics in Medicine, accepted.*. <i class="fab fa-r-project"></i>[R package](https://cran.r-project.org/web/packages/WR/index.html)
 
-- Qu, Y., <span style="color:#f6bd60;font-weight:bold">Wang, T.</span>, Zilinskas, R., Li, Y (2021). Imputation for missing data from a multivariate outcome of mixed variable types. [arXiv:2206.01873](https://arxiv.org/abs/2206.01873) <i class="fab fa-github"></i>[Code](https://github.com/ttuowang/imputation-mix)
+- Qu, Y., <span style="color:#F08A5D;font-weight:bold">Wang, T.</span>, Zilinskas, R., Li, Y (2021). Imputation for missing data from a multivariate outcome of mixed variable types. [arXiv:2206.01873](https://arxiv.org/abs/2206.01873) <i class="fab fa-github"></i>[Code](https://github.com/ttuowang/imputation-mix)
 
-- Mao, L. and <span style="color:blue;font-weight:bold">Wang, T.</span> (2020). A Class of Proportional Win-Fractions Regression Models for Composite Outcomes. [*Biometrics*](https://onlinelibrary.wiley.com/doi/10.1111/biom.13382), 10.1111/biom.13382. <i class="fab fa-r-project"></i>[R package](https://cran.r-project.org/web/packages/WR/index.html)
+- Mao, L. and <span style="color:#F08A5D;font-weight:bold">Wang, T.</span> (2020). A Class of Proportional Win-Fractions Regression Models for Composite Outcomes. [*Biometrics*](https://onlinelibrary.wiley.com/doi/10.1111/biom.13382), 10.1111/biom.13382. <i class="fab fa-r-project"></i>[R package](https://cran.r-project.org/web/packages/WR/index.html)
 
-- Zhao, Z., Song, J., <span style="color:blue;font-weight:bold">Wang, T.</span> and Lu, Q. (2020). Polygenic risk scores: effect estimation and model optimization. [*Quantitative Biology*](https://journal.hep.com.cn/qb/EN/10.15302/J-QB-021-0238), 9(2), 133‒140.
+- Zhao, Z., Song, J., <span style="color:#F08A5D;font-weight:bold">Wang, T.</span> and Lu, Q. (2020). Polygenic risk scores: effect estimation and model optimization. [*Quantitative Biology*](https://journal.hep.com.cn/qb/EN/10.15302/J-QB-021-0238), 9(2), 133‒140.
 
-- Zhou, Y., Zhao, L., ..., <span style="color:blue;font-weight:bold">Wang, T.</span>, et al. (2019). Predictive Big Data Analytics using the UK Biobank Data. [*Scientific reports*](https://www.nature.com/articles/s41598-019-41634-y), 9, 6012.
+- Zhou, Y., Zhao, L., ..., <span style="color:#F08A5D;font-weight:bold">Wang, T.</span>, et al. (2019). Predictive Big Data Analytics using the UK Biobank Data. [*Scientific reports*](https://www.nature.com/articles/s41598-019-41634-y), 9, 6012.
 
-- Gao, C., Sun, H., <span style="color:blue;font-weight:bold">Wang, T.</span>, et al (2018). Moodel-based and Model-free Machine Learning Techniques for Diagnostic Prediction and Classification of Clinical Outcomes in Parkinson's Disease. [*Scientific reports*](https://www.nature.com/articles/s41598-018-24783-4), 8, 7129.
+- Gao, C., Sun, H., <span style="color:#F08A5D;font-weight:bold">Wang, T.</span>, et al (2018). Moodel-based and Model-free Machine Learning Techniques for Diagnostic Prediction and Classification of Clinical Outcomes in Parkinson's Disease. [*Scientific reports*](https://www.nature.com/articles/s41598-018-24783-4), 8, 7129.
 
 
