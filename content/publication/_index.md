@@ -14,13 +14,13 @@ links:
 - icon: google-scholar # icon name without the 'fa-'
   icon_pack: ai
   name: Google Scholar
-  url: 
+  url: https://scholar.google.com/citations?user=FL-8orkAAAAJ&hl=en
 
 cascade:
   # for single-sidebar layout
   sidebar:
     text_link_label: View on Google Scholar
-    text_link_url: ""
+    text_link_url: "https://scholar.google.com/citations?user=FL-8orkAAAAJ&hl=en"
     show_sidebar_adunit: false # show ad container
 ---
 
@@ -30,7 +30,7 @@ cascade:
 
 - <span style="color:#F08A5D;font-weight:bold">Wang, T.</span>, Qu, Y., and Li, Y. (2022+). Win ratio: from estimands to estimation. *Under Review*
 
-- <span style="color:#F08A5D;font-weight:bold">Wang, T.</span> and Mao, L. (2022+). Stratified proportional win-fractions regression analysis. *Statistics in Medicine, accepted.*. <i class="fab fa-r-project"></i>[R package](https://cran.r-project.org/web/packages/WR/index.html)
+- <span style="color:#F08A5D;font-weight:bold">Wang, T.</span> and Mao, L. (2022+). Stratified proportional win-fractions regression analysis. [*Statistics in Medicine*](https://onlinelibrary.wiley.com/doi/10.1002/sim.9570). <i class="fab fa-r-project"></i>[R package](https://cran.r-project.org/web/packages/WR/index.html)
 
 - Qu, Y., <span style="color:#F08A5D;font-weight:bold">Wang, T.</span>, Zilinskas, R., Li, Y (2021). Imputation for missing data from a multivariate outcome of mixed variable types. [arXiv:2206.01873](https://arxiv.org/abs/2206.01873) <i class="fab fa-github"></i>[Code](https://github.com/ttuowang/imputation-mix)
 
