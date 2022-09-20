@@ -26,7 +26,7 @@ cascade:
 
 - <span style="color:#f4a261;font-weight:bold">Wang, T.</span>, Mao, L., Cocco, A., Kim, K. (2023+). Statistical Inference for Complex Time to Event Data under Non-Randomized Cohorts. *In Preparation*
 
-- Mao, L. and <span style="color:#f4a261;font-weight:bold">Wang, T.</span>  (2022+). Dissecting the restricted mean time in favor of treatment. *Under Review* 
+- Mao, L. and <span style="color:#f4a261;font-weight:bold">Wang, T.</span>  (2022). Dissecting the restricted mean time in favor of treatment. *Under Review* 
 
 - <span style="color:#F08A5D;font-weight:bold">Wang, T.</span>, Qu, Y., and Li, Y. (2022+). Win ratio: from estimands to estimation. *Under Review*
 
