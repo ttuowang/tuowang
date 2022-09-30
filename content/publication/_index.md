@@ -26,15 +26,15 @@ cascade:
 
 - <span style="color:#f4a261;font-weight:bold">Wang, T.</span>, Mao, L., Cocco, A., Kim, K. (2023+). Valid inference of time-to-event outcomes in non-randomized cohorts with application to the INVESTED trial. *In Preparation*
 
-- Mao, L. and <span style="color:#f4a261;font-weight:bold">Wang, T.</span>  (2022). Dissecting the restricted mean time in favor of treatment. *Under Review* 
+- Mao, L. and <span style="color:#f4a261;font-weight:bold">Wang, T.</span>  (2022). Dissecting the restricted mean time in favor of treatment. *Under Review*  <i class="fab fa-r-project"></i>[R package](https://cran.r-project.org/web/packages/rmt/)
 
 - <span style="color:#F08A5D;font-weight:bold">Wang, T.</span>, Qu, Y., and Li, Y. (2022+). Win ratio: from estimands to estimation. *Under Review*
 
-- <span style="color:#F08A5D;font-weight:bold">Wang, T.</span> and Mao, L. (2022). Stratified proportional win-fractions regression analysis. [*Statistics in Medicine*](https://onlinelibrary.wiley.com/doi/10.1002/sim.9570). <i class="fab fa-r-project"></i>[R package](https://cran.r-project.org/web/packages/WR/index.html)
+- <span style="color:#F08A5D;font-weight:bold">Wang, T.</span> and Mao, L. (2022). Stratified proportional win-fractions regression analysis. [*Statistics in Medicine*](https://onlinelibrary.wiley.com/doi/10.1002/sim.9570). <i class="fab fa-r-project"></i>[R package](https://cran.r-project.org/web/packages/WR/index.html), [Vignette](https://cran.r-project.org/web/packages/WR/vignettes/PW_stratify_reg.html)
 
 - Qu, Y., <span style="color:#F08A5D;font-weight:bold">Wang, T.</span>, Zilinskas, R., Li, Y (2021). Imputation for missing data from a multivariate outcome of mixed variable types. [arXiv:2206.01873](https://arxiv.org/abs/2206.01873) <i class="fab fa-github"></i>[Code](https://github.com/ttuowang/imputation-mix)
 
-- Mao, L. and <span style="color:#F08A5D;font-weight:bold">Wang, T.</span> (2020). A Class of Proportional Win-Fractions Regression Models for Composite Outcomes. [*Biometrics*](https://onlinelibrary.wiley.com/doi/10.1111/biom.13382), 10.1111/biom.13382. <i class="fab fa-r-project"></i>[R package](https://cran.r-project.org/web/packages/WR/index.html)
+- Mao, L. and <span style="color:#F08A5D;font-weight:bold">Wang, T.</span> (2020). A Class of Proportional Win-Fractions Regression Models for Composite Outcomes. [*Biometrics*](https://onlinelibrary.wiley.com/doi/10.1111/biom.13382), 10.1111/biom.13382. <i class="fab fa-r-project"></i>[R package](https://cran.r-project.org/web/packages/WR/index.html), [Vignette](https://cran.r-project.org/web/packages/WR/vignettes/PW_reg.html)
 
 - Zhao, Z., Song, J., <span style="color:#F08A5D;font-weight:bold">Wang, T.</span> and Lu, Q. (2020). Polygenic risk scores: effect estimation and model optimization. [*Quantitative Biology*](https://journal.hep.com.cn/qb/EN/10.15302/J-QB-021-0238), 9(2), 133‒140.
 
