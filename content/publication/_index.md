@@ -24,7 +24,7 @@ cascade:
     show_sidebar_adunit: false # show ad container
 ---
 
-- <span style="color:#f4a261;font-weight:bold">Wang, T.</span>, Mao, L., Cocco, A., Kim, K. (2023+). Valid inference of time-to-event outcomes in non-randomized cohorts with application to the INVESTED trial. *In Preparation*
+- <span style="color:#f4a261;font-weight:bold">Wang, T.</span>, Mao, L., Cocco, A., Kim, K. (2023+). Statistical inference for complex time to event data under non-randomized cohorts. *In Preparation*
 
 - Mao, L. and <span style="color:#f4a261;font-weight:bold">Wang, T.</span>  (2022). Dissecting the restricted mean time in favor of treatment. *Under Review*  <i class="fab fa-r-project"></i>[R package](https://cran.r-project.org/web/packages/rmt/)
 
