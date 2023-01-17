@@ -26,7 +26,7 @@ cascade:
 
 - <span style="color:#f4a261;font-weight:bold">Wang, T.</span>, Mao, L., Cocco, A., Kim, K. (2023+). Statistical inference for complex time to event data under non-randomized cohorts. *Under Review*
 
-- <span style="color:#F08A5D;font-weight:bold">Wang, T.</span>, Zilinskas, R., Li, Y, Qu, Y. (2023). Missing data imputation for a multivariate outcome of mixed variable types. *Journal of Biopharmaceutical Statistics* <i class="fab fa-github"></i>[Code](https://github.com/ttuowang/imputation-mix)
+- <span style="color:#F08A5D;font-weight:bold">Wang, T.</span>, Zilinskas, R., Li, Y, Qu, Y. (2023). Missing data imputation for a multivariate outcome of mixed variable types. *Journal of Biopharmaceutical Statistics*, [arXiv](https://arxiv.org/abs/2206.01873) ,<i class="fab fa-github"></i>[Code](https://github.com/ttuowang/imputation-mix)
 
 - Mao, L. and <span style="color:#f4a261;font-weight:bold">Wang, T.</span>  (2023). Dissecting the restricted mean time in favor of treatment. *Journal of Biopharmaceutical Statistics*  <i class="fab fa-r-project"></i>[R package](https://cran.r-project.org/web/packages/rmt/)
 
