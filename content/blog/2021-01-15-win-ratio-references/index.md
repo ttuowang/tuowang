@@ -3,7 +3,7 @@ author: Tuo Wang
 categories:
 - Clinical Trial
 - Survival Analysis
-date: "2021-01-15"
+date: "2023-04-06"
 draft: false
 excerpt: Win ratio is a novel approach to analyze prioritized composite endpoints. After proposed by Pocock et al. (2012), it gained much attention in both academic and industry. 
 subtitle: 
@@ -26,19 +26,22 @@ Win ratio is a novel approach to analyze prioritized composite endpoints. After 
 
 **Inference for win ratio:** 
 
+- [The asymptotic distribution of the Net Benefit estimator in presence of right-censoring](https://journals.sagepub.com/doi/full/10.1177/09622802211037067?casa_token=kaVqsz-TshQAAAAA%3AvxrzjkiQxqKIl3f7_tPmfZSAz_1hvKLVtSdXneXl1KcxohOPrYnVFwXjGSN8TsiRk0S8Pw-dfLmThQ4), Ozenne (2021).
+
 - [Large sample inference for a win ratio analysis of a composite outcome based on prioritized components](https://academic.oup.com/biostatistics/article/17/1/178/1744479), Bebu and Lachin (2015)
 
 - [An alternative approach to confidence interval estimation for the win ratio statistic](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.12225), Luo et al. (2015)
 
 - [A generalized analytic solution to the win ratio to analyze a composite endpoint considering the clinical importance order among components](https://onlinelibrary.wiley.com/doi/full/10.1002/pst.1763?casa_token=7OaTK3AD2W4AAAAA%3AAJDGGnu-lzjcqN00i1dMqqbwR5ae-7oOXP1P9lswjjlyS2nw64-mRgLMYHthn34oHjaf6A604n-VI2c), Dong (2016). 
 
-- [The asymptotic distribution of the Net Benefit estimator in presence of right-censoring](https://journals.sagepub.com/doi/full/10.1177/09622802211037067?casa_token=kaVqsz-TshQAAAAA%3AvxrzjkiQxqKIl3f7_tPmfZSAz_1hvKLVtSdXneXl1KcxohOPrYnVFwXjGSN8TsiRk0S8Pw-dfLmThQ4), Ozenne (2021).
+- [Evaluation of inferential methods for the net benefit and win ratio statistics](https://www.tandfonline.com/doi/abs/10.1080/10543406.2020.1730873), Verbeeck (2019)
 
 - [Inference on win ratio for cluster-randomized semi-competing risk data](https://link.springer.com/article/10.1007/s42081-021-00131-1), Zhang and Jeong (2021)
 
-- [Evaluation of inferential methods for the net benefit and win ratio statistics](https://www.tandfonline.com/doi/abs/10.1080/10543406.2020.1730873), Verbeeck (2019)
 
-**Alternative hypothesis:** [On the alternative hypotheses for the win ratio](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.12954), Mao (2019)
+**Alternative hypothesis:** 
+
+- [On the alternative hypotheses for the win ratio](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.12954), Mao (2019)
 
 **Weighted win ratio:**
 
@@ -62,15 +65,23 @@ Win ratio is a novel approach to analyze prioritized composite endpoints. After 
 
 - [The inverse-probability-of-censoring weighting (IPCW) adjusted win ratio statistic: an unbiased estimator in the presence of independent censoring](https://www.tandfonline.com/doi/abs/10.1080/10543406.2020.1757692), Dong et al. (2020)
 
-- [The win ratio: Impact of censoring and follow‐up time and use with nonproportional hazards](https://onlinelibrary.wiley.com/doi/full/10.1002/pst.1977?casa_token=FoLNO8bdSwkAAAAA%3Ahrpi3ENz_dkOXGHpKUKHJiOgP4ePBDgf04_rssrCMtHE9PJw6H-QGGieJxzAPQdH3vCpqoyUUaCZ_aY), Dong et al. (2019)
+- [The win ratio: Impact of censoring and follow‐up time and use with nonproportional hazards](https://onlinelibrary.wiley.com/doi/full/10.1002/pst.1977?casa_token=FoLNO8bdSwkAAAAA%3Ahrpi3ENz_dkOXGHpKUKHJiOgP4ePBDgf04_rssrCMtHE9PJw6H-QGGieJxzAPQdH3vCpqoyUUaCZ_aY), Dong et al. (2020)
 
-**Handling of Ties:** 
+**Win odds, handling of Ties:** 
 
 - [The Win Ratio: On Interpretation and Handling of Ties](https://www.tandfonline.com/doi/abs/10.1080/19466315.2019.1575279?journalCode=usbr20), Dong (2019)
 
 - [Win odds: An adaptation of the win ratio to include ties](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.8967?casa_token=aZWSuQx0R-sAAAAA%3A7pSCiZkAZVs2AaHpxSNLXi2k2E2Hcjkw6s2j63DnJCWvnwKQ08nBulZCeLfaD2gUF1RQb4Iscsk4-Q8), Brunner (2021)
 
 - [The use of the win odds in the design of non-inferiority clinical trials](https://www.tandfonline.com/doi/abs/10.1080/10543406.2020.1757690), Peng (2019)
+
+- [The win odds: statistical inference and regression](https://www.tandfonline.com/doi/abs/10.1080/10543406.2022.2089156), Song (2022)
+
+- [Win statistics (win ratio, win odds, and net benefit) can complement one another to show the strength of the treatment effect on time-to-event outcomes](https://onlinelibrary.wiley.com/doi/abs/10.1002/pst.2251), Dong (2022)
+
+**Recurrent-event win ratio**
+
+- [On recurrent-event win ratio](https://journals.sagepub.com/doi/abs/10.1177/09622802221084134), Mao (2022)
 
 **Sample size calculation:** 
 
@@ -82,13 +93,21 @@ Win ratio is a novel approach to analyze prioritized composite endpoints. After 
 
 - [A class of proportional win-fractions regression models for composite outcomes](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13382), Mao and Wang (2020)
 
-- Stratified Proportional Win-fractions Regression Analysis, Wang and Mao (2022+)
+- [Stratified Proportional Win-fractions Regression Analysis](https://onlinelibrary.wiley.com/doi/10.1002/sim.9570) Wang and Mao (2022)
 
 **Review:**
 
 - [Statistical Models for Composite Endpoints of Death and Nonfatal Events: A Review](https://www.tandfonline.com/doi/abs/10.1080/19466315.2021.1927824), Mao and Kim (2021)
 
 - [Statistical methods for composite endpoints](https://eurointervention.pcronline.com/article/the-a-b-c-of-multiple-statistical-methods-for-composite-endpoints), Hara et al. (2021)
+
+**Miscellaneous:**
+
+- [Event-specific win ratios for inference with terminal and non-terminal events](https://onlinelibrary.wiley.com/doi/10.1002/sim.9266), Yang (2021)
+
+- [Win ratio approach for analyzing composite time-to-event endpoint with opposite treatment effects in its components](https://onlinelibrary.wiley.com/doi/abs/10.1002/pst.2248), Liao (2022)
+
+- [Designing a longitudinal clinical trial based on a composite endpoint: Sample size, monitoring, and adaptation](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9416), Schoenfeld (2022)
 
 ### Application
 
@@ -108,7 +127,33 @@ Win ratio is a novel approach to analyze prioritized composite endpoints. After 
   
   - Dapagliflozin in patients with COVID-19: truth or dare, [paper (2021)](https://www.thelancet.com/journals/landia/article/PIIS2213-8587(21)00206-0/fulltext)
 
+<b><span style="font-size:22px;color: #A154F6;">Oncology:</span></b>
+
+  - Breast Cancer Index Predicts Extended Endocrine Benefit to Individualize Selection of Patients with HR+ Early-stage Breast Cancer for 10 Years of Endocrine Therapy, [paper (2022)](https://aacrjournals.org/clincancerres/article/27/1/311/83398/Breast-Cancer-Index-Predicts-Extended-Endocrine)
+  - Investigations of methods for multiple time-to-event endpoints: A chronic myeloid leukemia data analysis, [paper (2022)](https://onlinelibrary.wiley.com/doi/abs/10.1111/jep.13752)
+  
+  - Comparing Minimally Invasive and Open Pancreaticoduodenectomy for the Treatment of Pancreatic Cancer: a Win Ratio Analysis, [paper(2022)](https://link.springer.com/article/10.1007/s11605-022-05380-3)
+
 <b><span style="font-size:22px;color: #A154F6;">Cardiovascular Disease related clinical trial:</span></b>
+  - Influenza vaccination strategy in acute coronary syndromes: the VIP-ACS trial, [paper (2022)](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehac472/6675569)
+
+  - Sacubitril/valsartan versus ramipril for patients with acute myocardial infarction: win-ratio analysis of the PARADISE-MI trial, [paper (2022)](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejhf.2663)
+
+  - Patiromer for the management of hyperkalemia in heart failure with reduced ejection fraction: the DIAMOND trial, [paper (2022)](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehac401/6651164?login=false)
+  
+  - Efficacy and Safety of Empagliflozin in Hospitalized Heart Failure Patients: Main Results from The Empulse Trial, [paper (2022)](https://www.heartandlung.org/article/S0147-9563(22)00140-6/fulltext#relatedArticles)
+  
+  - Effects of Empagliflozin on Symptoms, Physical Limitations, and Quality of Life in Patients Hospitalized for Acute Heart Failure: Results From the EMPULSE Trial, [paper (2022)](https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.122.059725)
+  
+  - EMPAGLIFLOZIN IN PATIENTS HOSPITALIZED FOR DE NOVO VERSUS DECOMPENSATED CHRONIC HEART FAILURE: INSIGHTS FROM THE EMPULSE TRIAL, [paper(2022)](https://www.jacc.org/doi/full/10.1016/S0735-1097%2822%2901326-2)
+  
+  - Latent Pulmonary Vascular Disease May Alter the Response to Therapeutic Atrial Shunt Device in Heart Failure, [link](https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.122.059486)
+  
+  - Unloading left heart with a shunt device shows no benefits in heart failure with preserved ejection fraction but supports the importance of phenotyping patients in clinical trials, [paper(2022)](https://academic.oup.com/eurheartj/article/43/18/1700/6544808)
+  
+  - Atrial shunt device for heart failure with preserved and mildly reduced ejection fraction (REDUCE LAP-HF II): a randomised, multicentre, blinded, sham-controlled trial, [paper(2022)](https://www.sciencedirect.com/science/article/abs/pii/S0140673622000162)
+  
+  - The SGLT2 inhibitor empagliflozin in patients hospitalized for acute heart failure: a multinational randomized trial, [paper(2022)](https://www.nature.com/articles/s41591-021-01659-1)
 
   - A Study of Tirzepatide (LY3298176) in Participants With Heart Failure With Preserved Ejection Fraction and Obesity (SUMMIT) (SUMMIT), [Link](https://clinicaltrials.gov/ct2/show/NCT04847557?term=tirzepatide&cond=Heart+Failure&draw=2&rank=1), <i><span style="color: red;">undergoing trial in Eli Lilly and Company, win ratio as primary outcome analysis</span></i>.
 
@@ -140,6 +185,10 @@ Win ratio is a novel approach to analyze prioritized composite endpoints. After 
 
 <b><span style="font-size:22px;color: #A154F6;">Other:</span></b>
 
+  - Hierarchical endpoint analysis using win ratio in critical care: An exploration using the balanced solutions in intensive care study (BaSICS), [paper(2022)](https://www.sciencedirect.com/science/article/abs/pii/S0883944122001423)
+  
+  - Using the win ratio to compare laparoscopic versus open liver resection for colorectal cancer liver metastases, [paper(2022)](https://hbsn.amegroups.com/article/view/96801)
+  
   - Rationale and design of the safe and timely antithrombotic removal - ticagrelor (STAR-T) trial: A prospective, multi-center, double-blind, randomized controlled trial evaluating reductions in postoperative bleeding with intraoperative removal of ticagrelor by the drugsorb™-ATR device in patients undergoing cardiothoracic surgery within 48 hours from last ticagrelor dose, [paper(2022)](https://www.sciencedirect.com/science/article/pii/S0002870321004427)
   - Prioritised endpoints for device-based hypertension trials: the win ratio methodology., [paper (2021)](https://europepmc.org/article/med/33226002)
 
