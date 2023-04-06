@@ -14,6 +14,8 @@ title: Win Ratio References
 
 Win ratio is a novel approach to analyze prioritized composite endpoints. After proposed by Pocock et al. (2012), it gained much attention in both academic and industry. I summarized some important references regarding win ratio statistics.
 
+<b><span style="font-size:22px;color: #A154F6;"> Last updated date: April 2023 </span></b>
+
 ### Theory
 
 **Background:**
