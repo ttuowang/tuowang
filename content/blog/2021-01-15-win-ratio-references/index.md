@@ -3,7 +3,7 @@ author: Tuo Wang
 categories:
 - Clinical Trial
 - Survival Analysis
-date: "2023-04-06"
+date: "2021-01-15"
 draft: false
 excerpt: Win ratio is a novel approach to analyze prioritized composite endpoints. After proposed by Pocock et al. (2012), it gained much attention in both academic and industry. 
 subtitle: 
