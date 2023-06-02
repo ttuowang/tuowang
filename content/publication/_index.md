@@ -28,9 +28,9 @@ cascade:
 
 - <span style="color:#F08A5D;font-weight:bold">Wang, T.</span>, Qu, Y., and Li, Y. (2023+). Win ratio: from estimands to estimation. *Under Review*
 
-- <span style="color:#F08A5D;font-weight:bold">Wang, T.</span>, Zilinskas, R., Li, Y, Qu, Y. (2023). Missing data imputation for a multivariate outcome of mixed variable types. [*Journal of Biopharmaceutical Statistics*](https://www.tandfonline.com/doi/full/10.1080/19466315.2023.2169753), [arXiv](https://arxiv.org/abs/2206.01873), <i class="fab fa-github"></i>[Code](https://github.com/ttuowang/imputation-mix)
+- Mao, L. and <span style="color:#f4a261;font-weight:bold">Wang, T.</span>  (2023). Dissecting the restricted mean time in favor of treatment. [*Journal of Biopharmaceutical Statistics*](https://www.tandfonline.com/doi/full/10.1080/10543406.2023.2210658)  <i class="fab fa-r-project"></i>[R package](https://cran.r-project.org/web/packages/rmt/)
 
-- Mao, L. and <span style="color:#f4a261;font-weight:bold">Wang, T.</span>  (2023). Dissecting the restricted mean time in favor of treatment. *Journal of Biopharmaceutical Statistics*  <i class="fab fa-r-project"></i>[R package](https://cran.r-project.org/web/packages/rmt/)
+- <span style="color:#F08A5D;font-weight:bold">Wang, T.</span>, Zilinskas, R., Li, Y, Qu, Y. (2023). Missing data imputation for a multivariate outcome of mixed variable types. [*Journal of Biopharmaceutical Statistics*](https://www.tandfonline.com/doi/full/10.1080/19466315.2023.2169753), [arXiv](https://arxiv.org/abs/2206.01873), <i class="fab fa-github"></i>[Code](https://github.com/ttuowang/imputation-mix)
 
 - <span style="color:#F08A5D;font-weight:bold">Wang, T.</span> and Mao, L. (2022). Stratified proportional win-fractions regression analysis. [*Statistics in Medicine*](https://onlinelibrary.wiley.com/doi/10.1002/sim.9570). <i class="fab fa-r-project"></i>[R package](https://cran.r-project.org/web/packages/WR/index.html), [Vignette](https://cran.r-project.org/web/packages/WR/vignettes/PW_stratify_reg.html)
 
