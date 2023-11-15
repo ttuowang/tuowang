@@ -24,7 +24,7 @@ cascade:
     show_sidebar_adunit: false # show ad container
 ---
 
-- - <span style="color:#F08A5D;font-weight:bold">Wang, T.</span>, Qu, Y., and Li, Y. (2023+). Win ratio: from estimands to estimation. *Under Revision*
+- <span style="color:#F08A5D;font-weight:bold">Wang, T.</span>, Qu, Y., and Li, Y. (2023+). Win ratio: from estimands to estimation. *Under Revision*
 
 - <span style="color:#f4a261;font-weight:bold">Wang, T.</span>, Mao, L., Cocco, A., Kim, K. (2023). Statistical inference for complex time to event data under non-randomized cohorts. [*Statistics in Medicine*](https://onlinelibrary.wiley.com/doi/10.1002/sim.9952), 10.1002/sim.9952.
 
