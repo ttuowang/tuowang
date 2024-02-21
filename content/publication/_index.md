@@ -24,9 +24,9 @@ cascade:
     show_sidebar_adunit: false # show ad container
 ---
 
-- <span style="color:#F08A5D;font-weight:bold">Wang, T.</span>, Qu, Y., and Li, Y. (2023+). Win ratio: from estimands to estimation. *Under Revision*
+- <span style="color:#F08A5D;font-weight:bold">Wang, T.</span>, Qu, Y., and Li, Y. (2024). Win ratio: from estimands to estimation. *Journal of Biopharmaceutical Statistics*
 
-- <span style="color:#f4a261;font-weight:bold">Wang, T.</span>, Mao, L., Cocco, A., Kim, K. (2023). Statistical inference for complex time to event data under non-randomized cohorts. [*Statistics in Medicine*](https://onlinelibrary.wiley.com/doi/10.1002/sim.9952), 10.1002/sim.9952.
+- <span style="color:#f4a261;font-weight:bold">Wang, T.</span>, Mao, L., Cocco, A., Kim, K. (2024). Statistical inference for complex time to event data under non-randomized cohorts. [*Statistics in Medicine*](https://onlinelibrary.wiley.com/doi/10.1002/sim.9952), 10.1002/sim.9952.
 
 - Mao, L. and <span style="color:#f4a261;font-weight:bold">Wang, T.</span>  (2023). Dissecting the restricted mean time in favor of treatment. [*Journal of Biopharmaceutical Statistics*](https://www.tandfonline.com/doi/full/10.1080/10543406.2023.2210658)  <i class="fab fa-r-project"></i>[R package](https://cran.r-project.org/web/packages/rmt/)
 
