@@ -24,6 +24,8 @@ cascade:
     show_sidebar_adunit: false # show ad container
 ---
 
+- Peikert, A., Claggett, B.L., Udell, J.A., Joseph, J., Hegde, S.M., Kim,K., Mao, L., <span style="color:#F08A5D;font-weight:bold"> Wang, T.</span>, et al.(2024). Influenza vaccine immune response in patients with high-risk cardiovascular disease: a secondary analysis of the INVESTED randomized clinical trial. [*JAMA Cardiology*](https://jamanetwork.com/journals/jamacardiology/fullarticle/2817470), 10.1001/jamacardio.2024.0468.
+
 - <span style="color:#F08A5D;font-weight:bold">Wang, T.</span>, Qu, Y., and Li, Y. (2024). Win ratio: from estimands to estimation. *Journal of Biopharmaceutical Statistics*
 
 - <span style="color:#f4a261;font-weight:bold">Wang, T.</span>, Mao, L., Cocco, A., Kim, K. (2024). Statistical inference for complex time to event data under non-randomized cohorts. [*Statistics in Medicine*](https://onlinelibrary.wiley.com/doi/10.1002/sim.9952), 10.1002/sim.9952.
